@@ -1,0 +1,56 @@
+---
+product-family:
+  title: BlueXP Workload Factory for AWS 설명서
+  lead: AWS용 BlueXP Workload Factory는 Amazon FSx for NetApp ONTAP를 사용하여 워크로드를 최적화하도록
+    설계된 강력한 라이프사이클 관리 플랫폼입니다. 워크로드 유형별로 문서를 검색하거나 검색 창을 사용하여 Workload Factory 문서의
+    어느 곳에서나 컨텐츠를 찾을 수 있습니다.
+  summary: AWS용 BlueXP Workload Factory는 Amazon FSx for NetApp ONTAP를 사용하여 워크로드를 최적화하도록
+    설계된 강력한 라이프사이클 관리 플랫폼입니다. 워크로드 유형별로 문서를 검색하거나 검색 창을 사용하여 Workload Factory 문서의
+    어느 곳에서나 컨텐츠를 찾을 수 있습니다.
+  sidebarlinks:
+  - title: 모두
+    tags: all
+    class: active
+  - title: API를 참조하십시오
+    tags: api
+  - title: 설정 및 관리
+    tags: admin
+  - title: 워크로드
+    tags: workload
+  - title: 스토리지
+    tags: storage
+  tiles:
+  - title: 설정 및 관리
+    icon: "./media/icon-admin.png"
+    url: https://docs.netapp.com/us-en/workload-setup-admin/index.html
+    summary: Workload Factory 사용을 시작하고, 자격 증명을 관리하고, 자동화를 위해 Codebox를 사용하는 방법에 대해
+      알아보십시오.
+    tags: all,admin
+  - title: NetApp ONTAP용 Amazon FSx
+    icon: "./media/icon-storage.png"
+    url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
+    summary: FSx for ONTAP 파일 시스템을 구축하고 관리하여 ONTAP의 모든 기능을 네이티브 AWS 관리형 서비스로 활용합니다.
+    tags: all,storage
+  - title: API를 참조하십시오
+    icon: "./media/icon-api.png"
+    url: https://console.workloads.netapp.com/api-doc
+    summary: Workload Factory 리소스를 프로그래밍 방식으로 관리합니다.
+    tags: all,api
+  - title: 데이터베이스 워크로드
+    icon: "./media/icon-database.png"
+    url: https://docs.netapp.com/us-en/workload-databases/index.html
+    summary: FSx for ONTAP 파일 시스템을 외부 데이터 저장소로 사용하여 최적화를 위한 내장된 모범 사례에 따라 데이터베이스를
+      완벽하게 구축합니다.
+    tags: all,workload
+  - title: 제나이주식회사
+    icon: "./media/icon-ai.png"
+    url: https://docs.netapp.com/us-en/workload-genai/index.html
+    summary: FSx for ONTAP 파일 시스템의 데이터를 MLOps 플랫폼 및 GenAI 기반 모델과 통합하여 기능적인 챗봇을 만들
+      수 있습니다.
+    tags: all,workload
+  - title: VMware 워크로드
+    icon: "./media/icon-vmware.png"
+    url: https://docs.netapp.com/us-en/workload-vmware/index.html
+    summary: 온프레미스 vSphere 환경에서 AWS 기반의 VMware Cloud로 마이그레이션을 간소화하고 맞춤형 FSx for ONTAP
+      파일 시스템을 외부 데이터 저장소로 구현합니다.
+    tags: all,workload
