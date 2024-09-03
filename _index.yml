@@ -26,6 +26,11 @@ product-family:
     summary: Workload Factory 사용을 시작하고, 자격 증명을 관리하고, 자동화를 위해 Codebox를 사용하는 방법에 대해
       알아보십시오.
     tags: all,admin
+  - title: 릴리스 정보
+    icon: "./media/icon-docs.png"
+    url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
+    summary: 모든 Workload Factory의 새로운 기능에 대해 알아보십시오.
+    tags: all
   - title: NetApp ONTAP용 Amazon FSx
     icon: "./media/icon-storage.png"
     url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html

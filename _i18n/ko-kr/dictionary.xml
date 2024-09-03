@@ -143,4 +143,6 @@
   <block id="a76e64a0fbf98a083080351e4cb67566" category="sidebar">VMware 워크로드</block>
   <block id="1a61f87dd9021f3f5868a4a4418a6116" category="sidebar">온프레미스 vSphere 환경에서 AWS 기반의 VMware Cloud로 마이그레이션을 간소화하고 맞춤형 FSx for ONTAP 파일 시스템을 외부 데이터 저장소로 구현합니다.</block>
   <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">모든 Workload Factory 설명서</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 정보</block>
+  <block id="735eefa9fde7ae8ac32b7982c22015cd" category="sidebar">모든 Workload Factory의 새로운 기능에 대해 알아보십시오.</block>
 </blocks>
