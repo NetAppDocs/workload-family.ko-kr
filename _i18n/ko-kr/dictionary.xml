@@ -77,14 +77,6 @@
   <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">* 케이스 종료 *: 케이스를 종료하는 이유에 대한 세부 정보를 제공하고 * 케이스 닫기 * 를 선택합니다.</block>
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">표의 마지막 열에서 메뉴를 선택한 후 수행할 수 있는 작업을 보여 주는 스크린샷</block>
   <block id="6f7cf78e14aa346236a87d9541221fb2" category="paragraph"><block ref="6f7cf78e14aa346236a87d9541221fb2" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="22e5a7336ebe77138f0282cedcb069ab" category="inline-link">워크로드 팩토리</block>
-  <block id="7ffcbeca3b450b8d05f9cf0eedb617f8" category="list-text"><block ref="7ffcbeca3b450b8d05f9cf0eedb617f8" category="inline-link-rx"></block></block>
-  <block id="887f800d53dc2cd5a7894464a6f60a6b" category="inline-link">데이터베이스용 워크로드 팩토리</block>
-  <block id="7e505d4c691d86e5bd415f9ccb849966" category="list-text"><block ref="7e505d4c691d86e5bd415f9ccb849966" category="inline-link-rx"></block></block>
-  <block id="9591e2d54c998ae1c9d48fd5be7762e9" category="inline-link">GenAI를 위한 워크로드 팩토리</block>
-  <block id="f38c7416013fc239c3dd3288d40a40c0" category="list-text"><block ref="f38c7416013fc239c3dd3288d40a40c0" category="inline-link-rx"></block></block>
-  <block id="404a5efb62a3a3f22b02593091042608" category="inline-link">VMware용 워크로드 팩토리</block>
-  <block id="9a211183d3fa82368d76fdbab5abdeda" category="list-text"><block ref="9a211183d3fa82368d76fdbab5abdeda" category="inline-link-rx"></block></block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="doc">지원 등록 개요</block>
   <block id="996ad73a480311d4f86d6946935389d2" category="paragraph">Workload Factory 및 해당 스토리지 솔루션 및 서비스에 대한 기술 지원을 받으려면 지원 등록을 해야 합니다. Workload Factory와는 별도의 웹 기반 콘솔인 BlueXP 콘솔에서 지원을 받으려면 등록해야 합니다.</block>
   <block id="c552970fd4dc8118ba1806da596acad9" category="paragraph">지원을 등록한다고 해서 클라우드 공급자 파일 서비스에 대한 NetApp 지원이 활성화되지 않습니다. 클라우드 공급자 파일 서비스, 인프라 또는 서비스를 사용하는 솔루션과 관련된 기술 지원은 해당 제품에 대한 Workload Factory 설명서의 "도움말 얻기"를 참조하십시오.</block>
@@ -144,4 +136,6 @@
   <block id="ea2ef9b0d095bf991f4973633b485340" category="sidebar">데이터베이스를 지원합니다</block>
   <block id="56079badd056a19303cc26e6a4fcc7e0" category="sidebar">VMware</block>
   <block id="bd5d38b22c1d5e199f1a1bcf5ea76eb8" category="sidebar">모든 작업 부하 공장 문서화</block>
+  <block id="428b0b39be2352757edeb5f9f12a7bdd" category="inline-link">BlueXP  워크로드 공장</block>
+  <block id="7cf449620aa459bc5c449db69b07e507" category="paragraph"><block ref="7cf449620aa459bc5c449db69b07e507" category="inline-link-rx"></block></block>
 </blocks>
