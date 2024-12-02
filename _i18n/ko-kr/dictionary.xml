@@ -138,4 +138,6 @@
   <block id="bd5d38b22c1d5e199f1a1bcf5ea76eb8" category="sidebar">모든 작업 부하 공장 문서화</block>
   <block id="428b0b39be2352757edeb5f9f12a7bdd" category="inline-link">BlueXP  워크로드 공장</block>
   <block id="7cf449620aa459bc5c449db69b07e507" category="paragraph"><block ref="7cf449620aa459bc5c449db69b07e507" category="inline-link-rx"></block></block>
+  <block id="a7aabedfa51c621af1c82ac19da57a93" category="sidebar">빌더</block>
+  <block id="4dbca6300d097acc1ed4450a1e0d70d7" category="sidebar">버전 제어 시스템 및 CI/CD 흐름과의 즉각적인 클론 통합을 통해 소프트웨어 버전 소비 및 액세스를 단순화하고 시간과 리소스를 절약합니다.</block>
 </blocks>
