@@ -21,12 +21,12 @@ product-family:
   tiles:
   - title: 설정 및 관리
     icon: "./media/icon-admin.png"
-    url: https://docs.netapp.com/us-en/workload-setup-admin/index.html
+    url: "../workload-setup-admin/index.html"
     summary: 워크로드 팩토리 사용을 시작하고 자격 증명을 관리하며 자동화를 위해 Codebox를 사용하는 방법에 대해 알아보십시오.
     tags: all,admin
   - title: 릴리스 정보
     icon: "./media/icon-docs.png"
-    url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
+    url: "../workload-relnotes/whats-new.html"
     summary: 모든 워크로드 공장의 새로운 기능을 알아보십시오.
     tags: all
   - title: API를 참조하십시오
@@ -36,30 +36,30 @@ product-family:
     tags: all,api
   - title: 빌더
     icon: "./media/icon-builders.png"
-    url: https://docs.netapp.com/us-en/workload-builders/index.html
+    url: "../workload-builders/index.html"
     summary: 버전 제어 시스템 및 CI/CD 흐름과의 즉각적인 클론 통합을 통해 소프트웨어 버전 소비 및 액세스를 단순화하고 시간과 리소스를
       절약합니다.
     tags: all,workload
   - title: 데이터베이스를 지원합니다
     icon: "./media/icon-database.png"
-    url: https://docs.netapp.com/us-en/workload-databases/index.html
+    url: "../workload-databases/index.html"
     summary: FSx for ONTAP 파일 시스템을 외부 데이터 저장소로 사용하여 최적화를 위한 내장된 모범 사례에 따라 데이터베이스를
       완벽하게 구축합니다.
     tags: all,workload
   - title: 제나이주식회사
     icon: "./media/icon-ai.png"
-    url: https://docs.netapp.com/us-en/workload-genai/index.html
+    url: "../workload-genai/index.html"
     summary: FSx for ONTAP 파일 시스템의 데이터를 MLOps 플랫폼 및 GenAI 기반 모델과 통합하여 기능적인 챗봇을 만들
       수 있습니다.
     tags: all,workload
   - title: 스토리지
     icon: "./media/icon-storage.png"
-    url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
+    url: "../workload-fsx-ontap/index.html"
     summary: FSx for ONTAP 파일 시스템을 구축하고 관리하여 ONTAP의 모든 기능을 네이티브 AWS 관리형 서비스로 활용합니다.
     tags: all,storage
   - title: VMware
     icon: "./media/icon-vmware.png"
-    url: https://docs.netapp.com/us-en/workload-vmware/index.html
+    url: "../workload-vmware/index.html"
     summary: 온프레미스 vSphere 환경에서 AWS 기반의 VMware Cloud로 마이그레이션을 간소화하고 맞춤형 FSx for ONTAP
       파일 시스템을 외부 데이터 저장소로 구현합니다.
     tags: all,workload
