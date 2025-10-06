@@ -1,11 +1,12 @@
 ---
 product-family:
-  title: BlueXP  워크로드 팩토리 설명서
-  lead: BlueXP  워크로드 팩토리는 Amazon FSx for NetApp ONTAP를 사용하여 워크로드를 최적화하도록 설계된 강력한 라이프사이클
-    관리 플랫폼입니다. 워크로드 유형별로 문서를 검색하거나 검색 창을 사용하여 작업 부하 공장 문서의 어느 곳에서나 컨텐츠를 찾을 수 있습니다.
-  summary: BlueXP  워크로드 팩토리는 Amazon FSx for NetApp ONTAP를 사용하여 워크로드를 최적화하도록 설계된 강력한
-    라이프사이클 관리 플랫폼입니다. 워크로드 유형별로 문서를 검색하거나 검색 창을 사용하여 작업 부하 공장 문서의 어느 곳에서나 컨텐츠를 찾을
-    수 있습니다.
+  title: NetApp Workload Factory 문서
+  lead: NetApp Workload Factory는 Amazon FSx for NetApp ONTAP 사용하여 워크로드를 최적화하는 데 도움이
+    되도록 설계된 강력한 수명 주기 관리 플랫폼입니다.  워크로드 유형별로 문서를 찾아보거나 검색 창을 사용하여 워크로드 팩토리 문서의 어느 곳에서나
+    콘텐츠를 찾으세요.
+  summary: NetApp Workload Factory는 Amazon FSx for NetApp ONTAP 사용하여 워크로드를 최적화하는 데
+    도움이 되도록 설계된 강력한 수명 주기 관리 플랫폼입니다.  워크로드 유형별로 문서를 찾아보거나 검색 창을 사용하여 워크로드 팩토리 문서의
+    어느 곳에서나 콘텐츠를 찾으세요.
   sidebarlinks:
   - title: 모두
     tags: all
@@ -22,17 +23,18 @@ product-family:
   - title: 설정 및 관리
     icon: "./media/icon-admin.png"
     url: "../workload-setup-admin/index.html"
-    summary: 워크로드 팩토리 사용을 시작하고 자격 증명을 관리하며 자동화를 위해 Codebox를 사용하는 방법에 대해 알아보십시오.
+    summary: Workload Factory를 사용하는 방법, 자격 증명을 관리하는 방법, 자동화를 위해 Codebox를 사용하는 방법을
+      알아보세요.
     tags: all,admin
   - title: 릴리스 정보
     icon: "./media/icon-docs.png"
     url: "../workload-relnotes/whats-new.html"
-    summary: 모든 워크로드 공장의 새로운 기능을 알아보십시오.
+    summary: Workload Factory 전체의 새로운 소식을 알아보세요.
     tags: all
   - title: API를 참조하십시오
     icon: "./media/icon-api.png"
     url: https://console.workloads.netapp.com/api-doc
-    summary: 워크로드 공장 리소스를 프로그래밍 방식으로 관리합니다.
+    summary: Workload Factory 리소스를 프로그래밍 방식으로 관리합니다.
     tags: all,api
   - title: 빌더
     icon: "./media/icon-builders.png"

@@ -2,7 +2,6 @@
 <blocks>
   <block id="6a7b2c9c4cec65ad972b108fa0a1192b" category="doc">FSx for ONTAP에 대한 지원을 받으십시오</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">ONTAP용 Amazon FSx</block>
-  <block id="9d06990508d25d367d9158c6558eb9c8" category="paragraph"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
   <block id="35f9849ffdd809bda11d0fc56e1e3583" category="paragraph">Workload Factory 및 해당 스토리지 솔루션 및 서비스에 대한 기술 지원을 받으려면 아래에 설명된 지원 옵션을 사용하십시오.</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">자체 지원 옵션을 사용합니다</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">이 옵션은 하루 24시간, 주 7일 동안 무료로 사용할 수 있습니다.</block>
@@ -16,7 +15,6 @@
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">시작하기 전에</block>
   <block id="e2a733504c4088b809813bbb35a3ddfd" category="inline-link-macro">지원 등록 방법을 알아보십시오</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
-  <block id="aadd86a3fadf19221852692c6e4adc2f" category="paragraph">이 옵션을 선택하면 BlueXP 콘솔에 새 브라우저 탭이 열리고 지원 대시보드가 로드됩니다.</block>
   <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">리소스 * 페이지의 기술 지원 아래에서 사용 가능한 옵션 중 하나를 선택합니다.</block>
   <block id="6a1b74969231967ed071d465206b15c7" category="list-text">전화로 통화하려면 * 전화 * 를 선택하십시오. 전화를 걸 수 있는 전화 번호가 나열된 netapp.com 페이지로 연결됩니다.</block>
   <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">NetApp 지원 전문가와 함께 티켓을 열려면 * 케이스 생성 * 을 선택하십시오.</block>
@@ -34,12 +32,10 @@
   <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">지원 케이스 기록을 보려면 * 설정 &gt; 일정 * 을 선택하고 "지원 케이스 생성"이라는 작업을 찾을 수 있습니다. 맨 오른쪽에 있는 버튼을 사용하면 작업을 확장하여 세부 정보를 볼 수 있습니다.</block>
   <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">케이스를 생성하려고 할 때 다음과 같은 오류 메시지가 나타날 수 있습니다.</block>
   <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"선택한 서비스에 대해 케이스를 생성할 권한이 없습니다."</block>
-  <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">이 오류는 NSS 계정과 연결된 레코드 회사가 BlueXP 계정 일련 번호( 960xxxx) 또는 작동 환경 일련 번호 다음 옵션 중 하나를 사용하여 지원을 요청할 수 있습니다.</block>
   <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">제품 내 채팅을 사용합니다</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
   <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">에서 비기술적 케이스를 제출하십시오<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
   <block id="898e35e1a4bf4b025c3edec879439b08" category="section-title">지원 사례 관리(Preview)</block>
-  <block id="8b74b053fbeeff5c3b6f4991cb1d028d" category="paragraph">BlueXP에서 직접 활성 및 해결된 지원 사례를 보고 관리할 수 있습니다. NSS 계정 및 회사와 관련된 케이스를 관리할 수 있습니다.</block>
   <block id="394ef093ad3259b9ff0fe7406f015b83" category="paragraph">케이스 관리를 미리 보기로 사용할 수 있습니다. NetApp은 이 경험을 개선하고 다음 릴리즈에서 향상된 기능을 추가할 계획입니다. 제품 내 채팅을 사용하여 피드백을 보내주십시오.</block>
   <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">다음 사항에 유의하십시오.</block>
   <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">페이지 상단의 케이스 관리 대시보드에서는 두 가지 보기를 제공합니다.</block>
@@ -49,8 +45,6 @@
   <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">관심 있는 열을 추가 또는 제거할 수 있으며 우선 순위 및 상태 등의 열 내용을 필터링할 수 있습니다. 다른 열은 정렬 기능만 제공합니다.</block>
   <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">자세한 내용은 아래 단계를 참조하십시오.</block>
   <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">케이스 수준별로 케이스 메모를 업데이트하거나 아직 종결 또는 미결 종결 상태가 아닌 케이스를 종결할 수 있습니다.</block>
-  <block id="0a4050ac39772e9281a9aba225254bf8" category="list-text">Case Management * 를 선택하고 메시지가 표시되면 NSS 계정을 BlueXP에 추가합니다.</block>
-  <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">케이스 관리 * 페이지에는 BlueXP 사용자 계정과 연결된 NSS 계정과 관련된 미해결 케이스가 표시됩니다. NSS 관리 * 페이지 상단에 나타나는 것과 동일한 NSS 계정입니다.</block>
   <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">필요한 경우 테이블에 표시되는 정보를 수정합니다.</block>
   <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">조직의 케이스 * 에서 * 보기 * 를 선택하여 회사와 관련된 모든 케이스를 봅니다.</block>
   <block id="059e856250b59be3069246887b74a23c" category="list-text">정확한 날짜 범위를 선택하거나 다른 기간을 선택하여 날짜 범위를 수정합니다.</block>
@@ -71,27 +65,18 @@
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">표의 마지막 열에서 메뉴를 선택한 후 수행할 수 있는 작업을 보여 주는 스크린샷</block>
   <block id="6f7cf78e14aa346236a87d9541221fb2" category="paragraph"><block ref="6f7cf78e14aa346236a87d9541221fb2" category="inline-image-macro-rx" type="image"></block></block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="doc">지원 등록 개요</block>
-  <block id="d7e4bb081bf4ec4814d83edcfbdb8b96" category="paragraph">계정 ID 지원 가입 등록(BlueXP의 지원 리소스 페이지에 있는 20자리 960xxxxxxxxx 일련 번호)은 단일 지원 구독 ID로 사용됩니다. 각 BlueXP 계정 수준 지원 구독을 등록해야 합니다.</block>
-  <block id="f9e05c2b383e3f11e3b4bebbe8952225" category="paragraph">등록하면 지원 티켓 열기 및 자동 사례 생성과 같은 기능을 사용할 수 있습니다. 아래 설명과 같이 BlueXP에 NetApp Support 사이트(NSS) 계정을 추가하여 등록을 완료합니다.</block>
   <block id="856edc4caec68fece6859c4be9360f3c" category="section-title">NetApp 지원에 계정을 등록합니다</block>
-  <block id="2d6573b6ae4c51dc24e58109473f2490" category="paragraph">지원을 등록하고 지원 권한을 활성화하려면 계정 사용자 한 명이 NetApp Support 사이트 계정을 BlueXP 로그인과 연결해야 합니다. NetApp 지원에 등록하는 방법은 NetApp Support 사이트(NSS) 계정이 이미 있는지 여부에 따라 다릅니다.</block>
   <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">NSS 계정이 있는 기존 고객</block>
-  <block id="7e177185e7eddff33dd8f3aeb7551132" category="paragraph">NSS 계정을 가지고 있는 NetApp 고객은 BlueXP를 통해 지원을 받기 위해 등록하기만 하면 됩니다.</block>
-  <block id="0307a12e5749f8dd930472ee78f69d2c" category="list-text">BlueXP 콘솔의 오른쪽 상단에서 설정 아이콘을 선택하고 * 자격 증명 * 을 선택합니다.</block>
   <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">사용자 자격 증명 * 을 선택합니다.</block>
   <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">NSS 자격 증명 추가 * 를 선택하고 NetApp Support 사이트(NSS) 인증 프롬프트를 따릅니다.</block>
   <block id="cfc5506589d5a4d055e721267d5f0732" category="list-text">등록 프로세스가 성공적으로 완료되었는지 확인하려면 도움말 아이콘을 선택하고 * 지원 * 을 선택합니다.</block>
   <block id="8add4eb0d3f6ce61d374f3df3ee4eadf" category="paragraph">리소스 * 페이지에 계정이 지원을 위해 등록되었다는 내용이 표시됩니다.</block>
   <block id="10c56875db7a47f791d653e5d5bff0e9" category="inline-image-macro">계정 일련 번호와 녹색 확인란이 표시된 스크린샷 및 지원을 위해 등록된 텍스트.</block>
   <block id="fa7897454f637026faa3e00ccbfec239" category="paragraph"><block ref="fa7897454f637026faa3e00ccbfec239" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="d9a01bdcfab6f0a10fc126999b4d5988" category="paragraph">다른 BlueXP 사용자는 BlueXP 로그인과 NetApp Support 사이트 계정을 연결하지 않은 경우 동일한 지원 등록 상태를 볼 수 없습니다. 그러나 BlueXP 계정이 지원을 위해 등록되지 않은 것은 아닙니다. 계정에 있는 한 사용자가 이 단계를 따랐을 경우 계정이 등록되었습니다.</block>
   <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">기존 고객이지만 NSS 계정은 없습니다</block>
-  <block id="bdd862f49d428a850400bcf2f53cdaf2" category="paragraph">기존 사용권 및 제품 번호가 _NO_NSS인 기존 NetApp 고객인 경우 NSS 계정을 만들어 BlueXP 로그인과 연결해야 합니다.</block>
   <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">NetApp Support 사이트 사용자 등록 양식</block>
   <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">를 완료하여 NetApp 지원 사이트 계정을 만듭니다<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
   <block id="d61c9f72493817776f392db42ac446a2" category="list-text">적절한 사용자 레벨(일반적으로 * NetApp 고객/최종 사용자 *)을 선택해야 합니다.</block>
-  <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">위에 사용된 BlueXP 계정 일련 번호(960xxxx)를 일련 번호 필드에 복사해야 합니다. 이렇게 하면 계정 처리 속도가 빨라집니다.</block>
-  <block id="0499bba105f8a891a2c671f1ba99dd34" category="list-text">아래의 단계를 완료하여 새 NSS 계정을 BlueXP 로그인에 연결합니다 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>.</block>
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp이 처음이었습니다</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">NetApp의 새로운 브랜드이고 NSS 계정이 없는 경우 아래의 각 단계를 수행하십시오.</block>
   <block id="f5d7029ed18f998c0a9d780b2554e538" category="list-text">지원 리소스 페이지에서 계정 ID 일련 번호를 찾습니다.</block>
@@ -107,7 +92,6 @@
   <block id="201080500e946070a2e4873042507c77" category="paragraph">확인 시 NetApp에 요청이 제출되고 NetApp Support 사이트 계정을 만들 것을 권장합니다.</block>
   <block id="cc8b0535948da368f832027c19b7f853" category="list-text">일련 번호 필드에 위에서 사용된 계정 일련 번호(960xxxx)를 복사해 주십시오. 이렇게 하면 계정 처리 속도가 빨라집니다.</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">이 과정에서 NetApp이 연락을 드릴 것입니다. 신규 사용자를 위한 일회성 온보딩 연습입니다.</block>
-  <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">NetApp Support 사이트 계정이 있는 경우 아래의 단계를 완료하여 계정을 BlueXP 로그인에 연결합니다 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>.</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">모두</block>
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API를 참조하십시오</block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">설정 및 관리</block>
@@ -119,40 +103,12 @@
   <block id="2b810e335ed1777d9d90e638c21588bf" category="sidebar">FSx for ONTAP 파일 시스템의 데이터를 MLOps 플랫폼 및 GenAI 기반 모델과 통합하여 기능적인 챗봇을 만들 수 있습니다.</block>
   <block id="1a61f87dd9021f3f5868a4a4418a6116" category="sidebar">온프레미스 vSphere 환경에서 AWS 기반의 VMware Cloud로 마이그레이션을 간소화하고 맞춤형 FSx for ONTAP 파일 시스템을 외부 데이터 저장소로 구현합니다.</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 정보</block>
-  <block id="deb20d45d08927a387c5a07ceb73a4fd" category="sidebar">BlueXP  워크로드 팩토리는 Amazon FSx for NetApp ONTAP를 사용하여 워크로드를 최적화하도록 설계된 강력한 라이프사이클 관리 플랫폼입니다. 워크로드 유형별로 문서를 검색하거나 검색 창을 사용하여 작업 부하 공장 문서의 어느 곳에서나 컨텐츠를 찾을 수 있습니다.</block>
-  <block id="a4edad3205a214cb4964ba36c07bc827" category="sidebar">BlueXP  워크로드 팩토리 설명서</block>
-  <block id="4e5efe05038ddfebbc5f4ba036445445" category="sidebar">워크로드 팩토리 사용을 시작하고 자격 증명을 관리하며 자동화를 위해 Codebox를 사용하는 방법에 대해 알아보십시오.</block>
-  <block id="a4bf8b7b035c6217aa21804a57d23c82" category="sidebar">모든 워크로드 공장의 새로운 기능을 알아보십시오.</block>
-  <block id="1c54637cbb61ce67644ba6cd76485851" category="sidebar">워크로드 공장 리소스를 프로그래밍 방식으로 관리합니다.</block>
   <block id="ea2ef9b0d095bf991f4973633b485340" category="sidebar">데이터베이스를 지원합니다</block>
   <block id="56079badd056a19303cc26e6a4fcc7e0" category="sidebar">VMware</block>
-  <block id="bd5d38b22c1d5e199f1a1bcf5ea76eb8" category="sidebar">모든 작업 부하 공장 문서화</block>
-  <block id="428b0b39be2352757edeb5f9f12a7bdd" category="inline-link">BlueXP  워크로드 공장</block>
-  <block id="7cf449620aa459bc5c449db69b07e507" category="paragraph"><block ref="7cf449620aa459bc5c449db69b07e507" category="inline-link-rx"></block></block>
   <block id="a7aabedfa51c621af1c82ac19da57a93" category="sidebar">빌더</block>
   <block id="4dbca6300d097acc1ed4450a1e0d70d7" category="sidebar">버전 제어 시스템 및 CI/CD 흐름과의 즉각적인 클론 통합을 통해 소프트웨어 버전 소비 및 액세스를 단순화하고 시간과 리소스를 절약합니다.</block>
-  <block id="b6a4501cc05e54e2e5a513c3b552183a" category="paragraph">NetApp은 BlueXP  워크로드 팩토리 및 클라우드 서비스를 다양한 방식으로 지원합니다. 기술 자료(KB) 기사 및 커뮤니티 포럼과 같은 광범위한 무료 셀프 지원 옵션이 24x7 제공됩니다. 지원 등록에는 웹 티켓팅을 통한 원격 기술 지원이 포함됩니다.</block>
-  <block id="261966eaf033c38f6934f2c8fc36d79c" category="paragraph">FSx for ONTAP, 인프라 또는 서비스를 사용하는 솔루션과 관련된 기술 지원은 해당 제품의 워크로드 공장 설명서의 "도움말 얻기"를 참조하십시오.</block>
-  <block id="5b49df4e58e2a4750acd8bfa8687ccd6" category="paragraph">현재 보고 있는 작업 부하 공장 문서입니다.</block>
-  <block id="ba51332e265e54eb4295d6e7d057bad8" category="paragraph">워크로드 팩토리 기술 문서를 검색하여 문제 해결에 유용한 문서를 찾습니다.</block>
-  <block id="fc3e8f3c2017c33d444d483913a485ba" category="paragraph">워크로드 공장 커뮤니티에 참여하여 진행 중인 토론을 따르거나 새 토론을 만드십시오.</block>
-  <block id="ffa18fada5deeeb1e533786297855e7d" category="paragraph">케이스 생성 * 기능을 사용하려면 먼저 지원을 등록해야 합니다. NetApp 지원 사이트 자격 증명을 워크로드 공장 로그인에 연결하십시오. <block ref="d9fea24984986beabae03291c4b721de" category="inline-link-macro-rx"></block>..</block>
-  <block id="e13a5649dfef3a1c76c4be8e463226d7" category="list-text">워크로드 팩토리 콘솔의 오른쪽 위에서 * Help &gt; Support * 를 선택합니다.</block>
-  <block id="ce638fcfafd4d79a49524062225d7fbc" category="paragraph">BlueXP  워크로드 팩토리 및 스토리지 솔루션 및 서비스와 관련된 기술 지원을 받으려면 지원 등록을 해야 합니다. 워크로드 공장 과는 별도의 웹 기반 콘솔인 BlueXP  콘솔에서 지원을 등록해야 합니다.</block>
-  <block id="2cbcc262b0a39ec19c5f69bffccb70fb" category="paragraph">지원을 등록한다고 해서 클라우드 공급자 파일 서비스에 대한 NetApp 지원이 활성화되지 않습니다. 클라우드 공급자 파일 서비스, 인프라 또는 서비스를 사용하는 솔루션과 관련된 기술 지원은 해당 제품에 대한 워크로드 공장 설명서의 "도움말 얻기"를 참조하십시오.</block>
-  <block id="200e3179449390bdf5f3f8d9a199630c" category="doc">워크로드 팩토리 사용을 위한 툴</block>
-  <block id="b5a374f3f5b31b5057808689d26fe2c4" category="paragraph">다음 툴과 함께 BlueXP  워크로드 팩토리를 사용할 수 있습니다.</block>
-  <block id="4b50901597179fa075617d96ccf51901" category="list-text">* 워크로드 팩토리 콘솔 * : 워크로드 팩토리 콘솔은 애플리케이션과 프로젝트에 대한 시각적이고 포괄적인 뷰를 제공합니다.</block>
-  <block id="590410b3a112ba2f531f9aae44e29ed1" category="list-text">* BlueXP  콘솔 *: BlueXP  콘솔은 하이브리드 인터페이스 환경을 제공하므로 다른 BlueXP  서비스와 함께 BlueXP  워크로드 팩토리를 사용할 수 있습니다.</block>
-  <block id="62c5120220d244bd5e611d7c4459b5c5" category="list-text">* 질문하기 *: 질문하기 AI 도우미를 사용하여 워크로드 팩토리 웹 UI를 벗어나지 않고도 워크로드 공장에 대해 자세히 알아보십시오. 워크로드 기본 도움말 메뉴에서 질문하기 에 액세스합니다.</block>
-  <block id="e234d079cc2fccaeed8041a81e1e8122" category="list-text">* CloudShell CLI *: 워크로드 팩토리에는 단일 브라우저 기반 CLI를 통해 모든 계정에서 AWS 및 NetApp 환경을 관리하고 운영할 수 있는 CloudShell CLI가 포함되어 있습니다. 워크로드 팩토리 콘솔의 상단 표시줄에서 CloudShell에 액세스합니다.</block>
-  <block id="dfbf98e5a4263fb93c5b851bfc384ae3" category="list-text">* REST API *: 워크로드 팩토리 REST API를 사용하여 FSx for ONTAP 파일 시스템 및 기타 AWS 리소스를 배포하고 관리합니다.</block>
-  <block id="57f4ce64453b6cd8aa398c4f88d38c2e" category="list-text">* CloudFormation *: AWS CloudFormation 코드를 사용하여 AWS 계정의 CloudFormation 스택에서 AWS 및 타사 리소스를 모델링, 프로비저닝 및 관리하기 위해 워크로드 팩토리 콘솔에 정의한 작업을 수행합니다.</block>
-  <block id="af06e2a95bd9706f705a4480e8f40846" category="list-text">* Terraform BlueXP  워크로드 팩토리 공급자 *: Terraform을 사용하여 워크로드 팩토리 콘솔에서 생성된 인프라 워크플로우를 구축하고 관리하십시오.</block>
   <block id="cfd98e00a6e308c04ab9f76a854b6989" category="doc">작업을 추적하고 모니터링합니다</block>
-  <block id="3c83889f8bf9dcafe14392fafd21fe54" category="paragraph">BlueXP  워크로드 공장에서 Tracker를 사용하여 작업 부하 작업의 실행을 모니터링 및 추적하고 작업 진행 상황을 모니터링합니다.</block>
   <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">이 작업에 대해</block>
-  <block id="2fc2f4d1cfd067d7b3d8b8baa3ccee57" category="paragraph">워크로드 팩토리에는 작업 부하 작업의 진행 상황과 상태를 모니터링 및 추적하고 작업 작업 및 하위 작업에 대한 세부 정보를 검토하며 문제나 장애를 진단할 수 있는 모니터링 기능인 Tracker가 있습니다.</block>
   <block id="4a60367cb1382179b571e891381eaf8d" category="paragraph">Tracker에서 몇 가지 작업을 사용할 수 있습니다. 시간 프레임(최근 24시간, 7일, 14일 또는 30일), 작업 부하, 상태 및 사용자별로 작업을 필터링하고 검색 기능을 사용하여 작업을 찾고 작업 테이블을 CSV 파일로 다운로드할 수 있습니다. 언제든지 Tracker를 새로 고치고 실패한 작업을 재시도하거나 실패한 작업에 대한 매개 변수를 편집하고 작업을 다시 시도할 수 있습니다.</block>
   <block id="9233b1148f18eb744b69d4d3620c296c" category="paragraph">추적기는 작업에 따라 두 가지 수준의 모니터링을 지원합니다. 파일 시스템 배포와 같은 각 작업은 작업 설명, 상태, 시작 시간, 작업 기간, 사용자, 영역, 프록시 리소스, 작업 ID 및 모든 관련 하위 작업을 표시합니다. API 응답을 보고 작업 중에 발생한 상황을 파악할 수 있습니다.</block>
   <block id="5cdbeb1c4cc65e8f551e161828701113" category="list-text">예를 포함한 추적기 작업 수준</block>
@@ -164,27 +120,70 @@
   <block id="a9853b6069302c4152781f48222c3541" category="list-text">작업 빈도는 작업 유형 및 작업 일정을 기반으로 합니다.</block>
   <block id="01b0a4fcc33bdafd6e65537f24f463de" category="list-text">이벤트 보존</block>
   <block id="b3c382e94f4b4abcc049ce95e85dc998" category="list-text">이벤트는 사용자 인터페이스에서 30일 동안 유지됩니다.</block>
-  <block id="c82c26735f08b789c8bf574ab4962fcc" category="paragraph">추적기를 사용하여 BlueXP 에서 작업을 추적하고 모니터링합니다.</block>
   <block id="dcafe9cce796ce855e87b270f0a5af59" category="inline-link-macro">콘솔 환경</block>
   <block id="e1e54933838bb7ba662301d01c937d2d" category="list-text">중 하나를 사용하여 <block ref="68ceec76279c6913cdee16884c2d813a" category="inline-link-macro-rx"></block>로그인합니다.</block>
-  <block id="f6064bd4c17e4a2a2dcbd96f7ec83891" category="list-text">작업 부하에서 계정 설정 메뉴를 선택한 다음 * Tracker * 를 선택합니다.</block>
-  <block id="1c575ed3e5dce0a1d77706830609b278" category="inline-image-macro">Tracker 옵션이 강조 표시된 계정 설정 메뉴 스크린샷</block>
-  <block id="7478b5abe2869b21138fe88cbd4d66da" category="paragraph"><block ref="7478b5abe2869b21138fe88cbd4d66da" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="e443a93c9da9763cd15656814a7e0c2e" category="list-text">Tracker(추적기) 탭에서 필터를 사용하거나 검색을 사용하여 작업 결과를 좁힙니다. 작업 보고서를 다운로드할 수도 있습니다.</block>
   <block id="aa2a2cd452f8a71b2f2dcdae68114732" category="section-title">API 요청을 봅니다</block>
   <block id="68538d555ae12c680ea428aaa850d90f" category="paragraph">Tracker의 작업에 대한 코드상자에서 API 요청을 봅니다.</block>
   <block id="968877018213bf42962084001c210472" category="list-text">Tracker에서 작업을 선택합니다.</block>
-  <block id="2e6179b36329b65c38a5ca113ba0c81c" category="list-text">3점 메뉴를 선택한 다음 * API 요청 보기 * 를 선택합니다.</block>
   <block id="1448fba076a066622a9f93a25ab170a2" category="section-title">실패한 작업을 다시 시도하십시오</block>
   <block id="89f1070b2ef1ba678a8cb4823fa74cb2" category="paragraph">Tracker에서 실패한 작업을 재시도하십시오. 실패한 작업의 오류 메시지를 복사할 수도 있습니다.</block>
   <block id="25f39cb1a1fb7c5e04993249b6cabc32" category="admonition">실패한 작업을 최대 10회까지 재시도할 수 있습니다.</block>
   <block id="b866b632b7f32ded2a0a0907100641bf" category="list-text">Tracker에서 실패한 작업을 선택합니다.</block>
-  <block id="5d0eaa0ad00baabb57cbc22969070918" category="list-text">세 개의 점 메뉴를 선택한 다음 * 재시도 * 를 선택하십시오.</block>
   <block id="8eea62084ca7e541d918e823422bd82e" category="paragraph-title">결과</block>
   <block id="121145d60db2324903b129ae74d6c0a9" category="paragraph">작업이 다시 시작됩니다.</block>
   <block id="bde5076ae2a993de9042a7e1dd4dc445" category="section-title">실패한 작업을 편집한 후 다시 시도하십시오</block>
   <block id="2ae5a8ae85adca2aebf16aa81130c9c5" category="paragraph">실패한 작업의 매개 변수를 편집하고 Tracker 외부에서 작업을 재시도하십시오.</block>
-  <block id="524ab960a72817bd7f9f107dc357d1bd" category="list-text">세 점 메뉴를 선택한 다음 * 편집 을 선택하고 다시 시도하십시오 *.</block>
   <block id="a071e4310b0dbc18ec326c217f47692f" category="paragraph">매개 변수를 편집하고 작업을 다시 시도할 수 있는 작업 페이지로 리디렉션됩니다.</block>
   <block id="49814788ce382c87a117a40e54ae858b" category="paragraph">작업이 다시 시작됩니다. Tracker로 이동하여 작업 상태를 확인합니다.</block>
+  <block id="3c6efe0ce159fb5b8ee4882bcf3ad973" category="paragraph">NetApp 다양한 방법으로 Workload Factory와 클라우드 서비스에 대한 지원을 제공합니다. 지식 기반(KB) 문서와 커뮤니티 포럼 등 광범위한 무료 셀프 지원 옵션을 연중무휴 24시간 이용할 수 있습니다. 지원 등록 시 웹 티켓팅을 통한 원격 기술 지원이 제공됩니다.</block>
+  <block id="4435b263dd1a35bcd8dfda050db92b3b" category="paragraph">FSx for ONTAP, 해당 인프라 또는 서비스를 사용하는 솔루션과 관련된 기술 지원에 대해서는 해당 제품의 Workload Factory 설명서에서 "도움말 받기"를 참조하세요.</block>
+  <block id="359d8b16e442ffaa72e03c95fcd60448" category="paragraph"><block ref="359d8b16e442ffaa72e03c95fcd60448" category="inline-link-macro-rx"></block></block>
+  <block id="d935525f4850c4638cbf48ae53fb4686" category="paragraph">현재 보고 있는 Workload Factory 문서입니다.</block>
+  <block id="ba6274b9c9d1f81bb3a648fa289986b8" category="paragraph">Workload Factory 지식 기반을 검색하여 문제 해결에 도움이 되는 문서를 찾아보세요.</block>
+  <block id="7faef90df03399696ba9d4815b37171a" category="paragraph">Workload Factory 커뮤니티에 가입하여 진행 중인 토론을 팔로우하거나 새로운 토론을 만들어 보세요.</block>
+  <block id="a12ea39ddf1c98adfd7f751299705efa" category="paragraph">*사례 만들기* 기능을 사용하려면 먼저 지원에 등록해야 합니다. NetApp 지원 사이트 자격 증명을 Workload Factory 로그인과 연결해야 합니다. <block ref="d9fea24984986beabae03291c4b721de" category="inline-link-macro-rx"></block> .</block>
+  <block id="356c88ac4b0ec3f7689cc91f54701fef" category="list-text">Workload Factory 콘솔의 오른쪽 상단에서 *도움말 &gt; 지원*을 선택합니다.</block>
+  <block id="6e74b203173a9994c366c7e7a3cf4748" category="paragraph">이 옵션을 선택하면 NetApp 콘솔이 새 브라우저 탭에서 열리고 지원 대시보드가 ​​로드됩니다.</block>
+  <block id="3f13dd54818447375c92bf35e0a35f00" category="paragraph">이 오류는 NSS 계정과 해당 계정과 연결된 기록상 회사가 NetApp 콘솔 계정 일련 번호에 대한 기록상 회사와 동일하지 않다는 것을 의미할 수 있습니다(예: 960xxxx) 또는 시스템 일련 번호. 다음 옵션 중 하나를 사용하여 도움을 요청할 수 있습니다.</block>
+  <block id="289d2ab2d9b0e116790d035921c12b56" category="paragraph">NetApp 콘솔에서 활성 및 해결된 지원 사례를 직접 보고 관리할 수 있습니다. 귀하의 NSS 계정 및 회사와 관련된 사례를 관리할 수 있습니다.</block>
+  <block id="f9a63cd3a07378e169c58addd5fdce8d" category="paragraph">이 옵션을 선택하면 NetApp 콘솔에 새 브라우저 탭이 열리고 지원 대시보드가 ​​로드됩니다.</block>
+  <block id="785b440c0be1d853c5e2f4fb1f1ee2ab" category="list-text">*사례 관리*를 선택하고 메시지가 표시되면 NetApp 콘솔에 NSS 계정을 추가합니다.</block>
+  <block id="c80d8addb8aa8e8872bbc44894b077f3" category="paragraph">*사례 관리* 페이지는 NetApp 콘솔 사용자 계정과 연결된 NSS 계정과 관련된 미해결 사례를 표시합니다. 이는 *NSS 관리* 페이지 상단에 표시되는 NSS 계정과 동일합니다.</block>
+  <block id="4bbb8d481021011f9afb73ca196bfecd" category="doc">NetApp Workload Factory를 사용하는 도구</block>
+  <block id="227f846d45d01d0f9fb62a784d506d51" category="paragraph">다음 도구와 함께 NetApp Workload Factory를 사용할 수 있습니다.</block>
+  <block id="36445dd6e44838348239a5d874596e0d" category="list-text">*Workload Factory 콘솔*: Workload Factory 콘솔은 애플리케이션과 프로젝트에 대한 시각적이고 전체적인 보기를 제공합니다.</block>
+  <block id="e71fd0837014d1987a939c9af71a3353" category="list-text">* NetApp 콘솔*: NetApp 콘솔은 Workload Factory를 다른 NetApp 데이터 서비스와 함께 사용할 수 있도록 하이브리드 인터페이스 환경을 제공합니다.</block>
+  <block id="38c157d73ba6e13febe98e5199b858c8" category="list-text">*질문하기*: Workload Factory 콘솔을 벗어나지 않고도 Ask me AI 도우미를 사용하여 질문을 하고 Workload Factory에 대해 자세히 알아보세요.  Workload Factory 도움말 메뉴에서 Ask me에 액세스하세요.</block>
+  <block id="65c95ed5c9f895be6dfa81e8583c86af" category="list-text">*CloudShell CLI*: Workload Factory에는 단일 브라우저 기반 CLI를 통해 여러 계정의 AWS 및 NetApp 환경을 관리하고 운영할 수 있는 CloudShell CLI가 포함되어 있습니다.  Workload Factory 콘솔의 상단 표시줄에서 CloudShell에 액세스합니다.</block>
+  <block id="34904d30d825a389b588efb76a1ceb16" category="list-text">*REST API*: Workload Factory REST API를 사용하여 FSx for ONTAP 파일 시스템 및 기타 AWS 리소스를 배포하고 관리합니다.</block>
+  <block id="3995165ba76339d9d4d08edf5a17c07c" category="list-text">*CloudFormation*: AWS CloudFormation 코드를 사용하여 Workload Factory 콘솔에서 정의한 작업을 수행하여 AWS 계정의 CloudFormation 스택에서 AWS 및 타사 리소스를 모델링, 프로비저닝 및 관리합니다.</block>
+  <block id="a1b1209dad1b58c4e66fd68ee5bc0148" category="list-text">*Terraform NetApp Workload Factory 공급자*: Terraform을 사용하여 Workload Factory 콘솔에서 생성된 인프라 워크플로를 구축하고 관리합니다.</block>
+  <block id="aeb31c9f8c311597856b129ab948b4e6" category="inline-link">NetApp 워크로드 팩토리</block>
+  <block id="55f7843f27571db97da76bdf68a76d22" category="paragraph"><block ref="55f7843f27571db97da76bdf68a76d22" category="inline-link-rx"></block></block>
+  <block id="3d9b602ae77ac6a4951ca31b05b6b54f" category="paragraph">NetApp Workload Factory와 해당 스토리지 솔루션 및 서비스에 대한 기술 지원을 받으려면 지원 등록이 필요합니다.  Workload Factory와는 별도의 웹 기반 콘솔인 NetApp 콘솔에서 지원을 받으려면 등록해야 합니다.</block>
+  <block id="c552970fd4dc8118ba1806da596acad9" category="paragraph">지원에 등록해도 클라우드 공급자 파일 서비스에 대한 NetApp 지원은 제공되지 않습니다. 클라우드 공급자 파일 서비스, 해당 인프라 또는 서비스를 사용하는 솔루션과 관련된 기술 지원에 대해서는 해당 제품의 Workload Factory 설명서에서 "도움말 받기"를 참조하세요.</block>
+  <block id="eb803e55617f13b716b5e56642cce2b0" category="paragraph">계정 ID 지원 구독을 등록하면( NetApp 콘솔의 지원 리소스 페이지에 있는 20자리 960xxxxxxxxx 일련 번호) 단일 지원 구독 ID로 사용됩니다.  각 NetApp 계정 수준 지원 구독을 등록해야 합니다.</block>
+  <block id="4cffd3c1dbf2f1038c01d18e7a860305" category="paragraph">등록하면 지원 티켓 개설, 자동 사례 생성 등의 기능을 사용할 수 있습니다.  아래 설명된 대로 NetApp 콘솔에 NetApp 지원 사이트(NSS) 계정을 추가하여 등록을 완료합니다.</block>
+  <block id="f6c4a3ae75d6616126e6da8310ae7384" category="paragraph">지원을 등록하고 지원 자격을 활성화하려면 계정의 한 사용자가 NetApp 지원 사이트 계정을 NetApp 콘솔 로그인과 연결해야 합니다. NetApp 지원에 등록하는 방법은 NetApp 지원 사이트(NSS) 계정이 있는지 여부에 따라 달라집니다.</block>
+  <block id="f732375b4bc27328f202e3b10a957017" category="paragraph">NSS 계정이 있는 NetApp 고객인 경우 NetApp 콘솔을 통해 지원을 등록하기만 하면 됩니다.</block>
+  <block id="f65aaf10469eac2932fc53c6a37afb71" category="list-text">NetApp 콘솔 메뉴에서 *관리*를 선택한 다음 *자격 증명*을 선택합니다.</block>
+  <block id="9094354ffd09e4644caa0010edc66d24" category="paragraph">NetApp 콘솔 로그인과 NetApp 지원 사이트 계정을 연결하지 않은 다른 NetApp 콘솔 사용자는 동일한 지원 등록 상태를 볼 수 없습니다.  하지만 그렇다고 해서 귀하의 NetApp 계정이 지원에 등록되지 않았다는 것은 아닙니다.  계정의 사용자 한 명이 이러한 단계를 따랐다면 귀하의 계정은 등록된 것입니다.</block>
+  <block id="a8f62b208e5177a219f0b0d4ce88e0a9" category="paragraph">기존 라이선스와 일련 번호는 있지만 NSS 계정이 없는 기존 NetApp 고객인 경우 NSS 계정을 만들고 NetApp 콘솔 로그인과 연결해야 합니다.</block>
+  <block id="fb9b6bbcab5fb396a13f67594a0ba1ee" category="list-text">위에 사용된 NetApp 계정 일련 번호(960xxxx)를 일련 번호 필드에 꼭 복사해 두세요. 이렇게 하면 계정 처리가 빨라집니다.</block>
+  <block id="40eff8559acd41057187b6cb11fa1919" category="list-text">다음 단계를 완료하여 새 NSS 계정을 NetApp 콘솔 로그인과 연결하세요.<block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block> .</block>
+  <block id="f335678326583cea28377216c5515221" category="paragraph">NetApp 지원 사이트 계정이 있으면 아래 단계를 완료하여 계정을 NetApp 콘솔 로그인과 연결하세요.<block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block> .</block>
+  <block id="90f1d591a5568f9514509a22083b5b1a" category="paragraph">NetApp Workload Factory의 Tracker를 사용하여 워크로드 작업 실행을 모니터링하고 추적하며 작업 진행 상황을 모니터링합니다.</block>
+  <block id="6e6b128e6a9a02188dabea0077b4ad0b" category="paragraph">NetApp Workload Factory는 Tracker라는 모니터링 기능을 제공하여 워크로드 작업의 진행 상황과 상태를 모니터링하고 추적하고, 작업 작업과 하위 작업에 대한 세부 정보를 검토하고, 문제나 오류를 진단할 수 있습니다.</block>
+  <block id="3681c25085cfd3a56604857cdcbcb245" category="paragraph">Tracker를 사용하여 Workload Factory 콘솔에서 작업을 추적하고 모니터링하세요.</block>
+  <block id="736c64c4ed0856a8d9aa760b894aef84" category="list-text">작업 부하 메뉴에서 *관리*를 선택한 다음 *추적기*를 선택합니다.</block>
+  <block id="2ba65fb298b74a9b72d949d4fe3479b3" category="list-text">Tracker에서 필터나 검색을 사용하여 채용 공고 결과를 좁히세요.  또한, 일자리 보고서를 다운로드할 수도 있습니다.</block>
+  <block id="bd56fc255ce900fc195c9bc0d7ed20c0" category="list-text">작업 메뉴를 선택한 다음 *API 요청 보기*를 선택합니다.</block>
+  <block id="9d506eb8fb5e05c2467a690e5e727cd8" category="list-text">작업 메뉴를 선택한 다음 *다시 시도*를 선택하세요.</block>
+  <block id="0270fd4391a6b334aa157faf0a6b7304" category="list-text">작업 메뉴를 선택한 다음 *편집 및 다시 시도*를 선택하세요.</block>
+  <block id="42a584f66b7330d3e570bd80fda469ec" category="sidebar">NetApp Workload Factory는 Amazon FSx for NetApp ONTAP 사용하여 워크로드를 최적화하는 데 도움이 되도록 설계된 강력한 수명 주기 관리 플랫폼입니다.  워크로드 유형별로 문서를 찾아보거나 검색 창을 사용하여 워크로드 팩토리 문서의 어느 곳에서나 콘텐츠를 찾으세요.</block>
+  <block id="ba6dc48c42def59e6936ffe843e2d781" category="sidebar">NetApp Workload Factory 문서</block>
+  <block id="4e09e2bc58d401c44c1cac7e05658640" category="sidebar">Workload Factory를 사용하는 방법, 자격 증명을 관리하는 방법, 자동화를 위해 Codebox를 사용하는 방법을 알아보세요.</block>
+  <block id="735eefa9fde7ae8ac32b7982c22015cd" category="sidebar">Workload Factory 전체의 새로운 소식을 알아보세요.</block>
+  <block id="99d8e052ca4a944dc122d9aeba599a75" category="sidebar">Workload Factory 리소스를 프로그래밍 방식으로 관리합니다.</block>
+  <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">모든 Workload Factory 문서</block>
 </blocks>
