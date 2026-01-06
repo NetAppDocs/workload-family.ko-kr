@@ -36,11 +36,11 @@ product-family:
     url: https://console.workloads.netapp.com/api-doc
     summary: Workload Factory 리소스를 프로그래밍 방식으로 관리합니다.
     tags: all,api
-  - title: 빌더
+  - title: 에다
     icon: "./media/icon-builders.png"
     url: "../workload-builders/index.html"
-    summary: 버전 제어 시스템 및 CI/CD 흐름과의 즉각적인 클론 통합을 통해 소프트웨어 버전 소비 및 액세스를 단순화하고 시간과 리소스를
-      절약합니다.
+    summary: 자동화된 스토리지 파라미터 관리를 통해 여러 파일 시스템에서 ONTAP 에 맞게 FSx를 최적화하여 성능을 향상시키고 운영
+      비용을 절감하십시오.
     tags: all,workload
   - title: 데이터베이스를 지원합니다
     icon: "./media/icon-database.png"
