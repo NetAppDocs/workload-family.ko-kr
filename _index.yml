@@ -38,9 +38,8 @@ product-family:
     tags: all,api
   - title: 에다
     icon: "./media/icon-builders.png"
-    url: "../workload-builders/index.html"
-    summary: 자동화된 스토리지 파라미터 관리를 통해 여러 파일 시스템에서 ONTAP 에 맞게 FSx를 최적화하여 성능을 향상시키고 운영
-      비용을 절감하십시오.
+    url: "../workload-eda/index.html"
+    summary: 자동화된 스토리지 관리를 통해 여러 파일 시스템에서 ONTAP 성능 및 비용 측면에서 FSx를 최적화하십시오.
     tags: all,workload
   - title: 데이터베이스를 지원합니다
     icon: "./media/icon-database.png"
